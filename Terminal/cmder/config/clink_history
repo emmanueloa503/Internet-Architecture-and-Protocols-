@@ -1,0 +1,1022 @@
+|CTAG_1725481485_1577934906_20656_0
+ssh-keygen -t rsa
+|sh eo2361@amdvm205-1.utah.cloudlab.us
+|sh eo2361@amdvm002-1.utah.cloudlab.us
+|sh eo2361@amdvm002-1.utah.cloudlab.us
+|sh eo2361@amdvm002-1.utah.cloudlab.us
+|sh eo2361@amdvm002-1.utah.cloudlab.us
+|sh eo2361@amdvm002-1.utah.cloudlab.us
+|sh eo2361@amdvm002-1.utah.cloudlab.us
+ssh eo2361@amdvm002-1.utah.cloudlab.us
+|sh eo2361@amdvm205-1.utah.cloudlab.us
+|sh eo2361@amdvm205-1.utah.cloudlab.us
+|sh eo2361@amdvm205-1.utah.cloudlab.us
+|sh eo2361@amdvm205-1.utah.cloudlab.us
+|sh eo2361@amdvm205-1.utah.cloudlab.us
+|sh eo2361@amdvm205-1.utah.cloudlab.us
+|sh eo2361@amdvm205-1.utah.cloudlab.us
+|sh eo2361@amdvm205-1.utah.cloudlab.us
+scp eo2361@amdvm002-1.utah.cloudlab.us:/users/eo2361/new/newfile.txt C:\Users\T\Desktop\NYU\Second Semester\2.0) Internet Architecture and Protocols Lab\Terminal\cmder
+scp eo2361@amdvm002-1.utah.cloudlab.us:/users/eo2361/new/newfile.txt C:\Users\T\Desktop\NYU\Second Semester\2.0) Internet Architecture and Protocols Lab\Terminal/newfile.txt
+|cp -i ~/.ssh/id_rsa -P eo2361@amdvm002-1.utah.cloudlab.us:~/new/newfile.txt
+|s
+|sh eo2361@amdvm205-1.utah.cloudlab.us
+|sh eo2361@amdvm205-1.utah.cloudlab.us
+|sh eo2361@amdvm205-1.utah.cloudlab.us
+|wd
+|s
+cd 
+|wd
+ssh eo2361@amdvm205-1.utah.cloudlab.us
+ssh eo2361@clnodevm264-1.clemson.cloudlab.us
+scp -i ~/.ssh/id_rsa -P eo2361@amdvm002-1.utah.cloudlab.us:~/new/newfile.txt
+scp eo2361@clnodevm264-1.clemson.cloudlab.us:/users/eo2361/new/newfile.txt C:\Users\T\Desktop\NYU\Second Semester\2.0) Internet Architecture and Protocols Lab/newfile.txt
+scp eo2361@clnodevm264-1.clemson.cloudlab.us:/users/eo2361/new/newfile.txt \Users\T\Desktop\NYU\Second Semester\2.0) Internet Architecture and Protocols Lab/newfile.txt
+scp eo2361@clnodevm264-1.clemson.cloudlab.us:/users/eo2361/new/newfile.txt \Users\T\Desktop\NYU\Second Semester\2.0) Internet Architecture and Protocols Lab/
+|sh eo2361@pcvm605-2.emulab.net
+|cp eo2361@c220g5-110913vm-1.wisc.cloudlab.us:/users/eo2361/new/newfile.txt C:\Users\T\Desktop\NYU\Second Semester\2.0) Internet Architecture and Protocols Lab\Terminal\cmder\newfile.txt
+|s
+|cp eo2361@c220g5-110913vm-1.wisc.cloudlab.us:/users/eo2361/new/newfile.txt C:\Users\T\Desktop\NYU\Second Semester\2.0) Internet_Architecture_and_Protocols_Lab\Terminal\cmder\newfile.txt
+|d
+|d
+scp eo2361@c220g5-110913vm-1.wisc.cloudlab.us:/users/eo2361/new/newfile.txt C:\Users\T\Desktop\NYU\Second Semester\2.0) Internet_Architecture_and_Protocols_Lab\Terminal\cmder newfile.txt
+scp eo2361@c220g5-110913vm-1.wisc.cloudlab.us:/users/eo2361/new/newfile.txt C:\Users\T\Desktop\NYU\Second Semester\2.0) Internet_Architecture_and_Protocols_Lab\Terminal\cmder/newfile.txt
+mkdir newfile
+|s
+scp eo2361@c220g5-110913vm-1.wisc.cloudlab.us:/users/eo2361/new/newfile.txt C:\Users\T\Desktop\NYU\Second Semester\2.0) Internet_Architecture_and_Protocols_Lab\Terminal\cmder\newfile.txt
+scp eo2361@c220g5-110913vm-1.wisc.cloudlab.us:/users/eo2361/new/newfile.txt \Users\T\Desktop\NYU\Second Semester\2.0) Internet_Architecture_and_Protocols_Lab\Terminal\cmder\newfile.txt
+scp eo2361@c220g5-110913vm-1.wisc.cloudlab.us:/users/eo2361/new/newfile.txt Users\T\Desktop\NYU\Second Semester\2.0) Internet_Architecture_and_Protocols_Lab\Terminal\cmder\newfile.txt
+scp eo2361@c220g5-110913vm-1.wisc.cloudlab.us:/users/eo2361/new/newfile.txt C:\Users\T\Desktop\NYU\Second Semester\2.0)_Internet_Architecture_and_Protocols_Lab\Terminal\cmder\newfile.txt
+scp eo2361@c220g5-110913vm-1.wisc.cloudlab.us:/users/eo2361/new/newfile.txt C:\Users\T\Desktop\NYU\Second Semester\2.0) Internet Architecture and Protocols Lab\Terminal\cmder\newfile.txt
+scp eo2361@c220g5-110913vm-1.wisc.cloudlab.us:/users/eo2361/new/newfile.txt \Users\T\Desktop\NYU\Second Semester\2.0) Internet Architecture and Protocols Lab\Terminal\cmder\newfile.txt
+scp eo2361@c220g5-110913vm-1.wisc.cloudlab.us:/users/eo2361/new/newfile.txt Users\T\Desktop\NYU\Second Semester\2.0) Internet Architecture and Protocols Lab\Terminal\cmder\newfile.txt
+scp eo2361@c220g5-110913vm-1.wisc.cloudlab.us:/users/eo2361/new/newfile.txt C:\Users\T\Desktop\NYU\Second Semester\2.0) Internet Architecture and Protocols Lab\Terminal\cmder\newfile.txtpwd
+cd
+scp eo2361@c220g5-110913vm-1.wisc.cloudlab.us:/users/eo2361/new/newfile.txt C:\Users\T\Desktop\newfile.txt
+scp eo2361@c220g5-110913vm-1.wisc.cloudlab.us:/users/eo2361/new/newfile.txt C:\Users\T\Desktop\NYU\second semester\newfile.txt
+scp eo2361@c220g5-110913vm-1.wisc.cloudlab.us:/users/eo2361/new/newfile.txt C:\Users\T\Desktop\NYU\newfile.txt
+scp eo2361@c220g5-110913vm-1.wisc.cloudlab.us:/users/eo2361/new/newfile.txt C:\Users\T\Desktop\NYU\Second_Semester\2.0)_Internet_Architecture_and_Protocols_Lab\Terminal\cmder\newfile.txtpwd
+scp eo2361@c220g5-110913vm-1.wisc.cloudlab.us:/users/eo2361/new/newfile.txt C:\Users\T\Desktop\NYU\lab_iap\newfile.txt
+scp eo2361@c220g5-110913vm-1.wisc.cloudlab.us:/users/eo2361/new/newfile.txt .
+|wd
+|wd
+ssh eo2361@pcvm605-2.emulab.net
+ssh eo2361@c220g5-110913vm-1.wisc.cloudlab.us
+ssh eo2361@pcvm605-2.emulab.net
+|sh eo2361@c220g5-110913vm-1.wisc.cloudlab.us
+ssh eo2361@c220g5-110913vm-1.wisc.cloudlab.us
+|sh eo2361@amdvm008-2.utah.cloudlab.us
+|sh eo2361@amdvm008-2.utah.cloudlab.us
+|sh eo2361@amdvm008-2.utah.cloudlab.us
+ssh eo2361@amdvm008-2.utah.cloudlab.us
+|sh eo2361@amdvm008-1.utah.cloudlab.us
+|sh eo2361@amdvm008-1.utah.cloudlab.us
+|sh eo2361@amdvm008-1.utah.cloudlab.us
+|sh eo2361@amdvm008-1.utah.cloudlab.us
+ssh eo2361@amdvm008-1.utah.cloudlab.us
+|sh eo2361@amdvm008-3.utah.cloudlab.us
+|sh eo2361@amdvm008-3.utah.cloudlab.us
+ssh eo2361@amdvm008-3.utah.cloudlab.us
+ssh eo2361@amdvm008-1.utah.cloudlab.us
+|sh eo2361@amdvm227-2.utah.cloudlab.us
+|sh eo2361@amdvm227-1.utah.cloudlab.us
+|sh eo2361@amdvm227-2.utah.cloudlab.us
+|sh eo2361@amdvm227-1.utah.cloudlab.us
+|sh eo2361@amdvm227-2.utah.cloudlab.us
+|sh eo2361@amdvm227-2.utah.cloudlab.us
+|sh eo2361@amdvm227-2.utah.cloudlab.us
+|s
+|wd
+|cp eo2361@amdvm227-2.utah.cloudlab.us:~/romeo-tcpdump-file.pcap ~C:\Users\T\Desktop\NYUC:\Users\T\Desktop\NYU\lab_iap\wireshark
+scp eo2361@amdvm227-2.utah.cloudlab.us:~/romeo-tcpdump-file.pcap C:\Users\T\Desktop\NYUC:\Users\T\Desktop\NYU\lab_iap\wireshark
+scp eo2361@amdvm227-2.utah.cloudlab.us:~/romeo-tcpdump-file.pcap ~C:\Users\T\Desktop\NYUC:\Users\T\Desktop\NYU\lab_iap\wireshark
+scp -i ~/.ssh/id_rsa -P 22 eo2361@amdvm227-2.utah.cloudlab.us:~/romeo-tcpdump-file.pcap ~C:\Users\T\Desktop\NYUC:\Users\T\Desktop\NYU\lab_iap\wireshark
+|cp -i ~/.ssh/id_rsa -P 22 eo2361@amdvm227-2.utah.cloudlab.us:~/romeo-tcpdump-file.pcap ~C:\Users\T\Desktop\NYUC:\Users\T\Desktop
+|sh eo2361@amdvm227-2.utah.cloudlab.us
+|cp -i ~/.ssh/id_rsa -P 22 eo2361@amdvm227-2.utah.cloudlab.us:~/romeo-tcpdump-file.pcap ~C:\Users\T\Desktop\NYUC:\Users\T\Desktop
+scp -i ~/.ssh/id_rsa -P 22 eo2361@amdvm227-2.utah.cloudlab.us:~/romeo-tcpdump-file.pcap ~C:\Users\T\Desktop\NYUC:\Users\T\Desktop
+scp eo2361@amdvm227-2.utah.cloudlab.us:~/romeo-tcpdump-file.pcap ~C:\Users\T\Desktop\NYU\lab_iap\wireshark
+scp eo2361@amdvm227-2.utah.cloudlab.us:~/romeo-tcpdump-file.pcap ~\C:\Users\T\Desktop\NYU\lab_iap\wireshark
+scp eo2361@amdvm227-2.utah.cloudlab.us:~/romeo-tcpdump-file.pcap C:\Users\T\Desktop\NYU\lab_iap\wireshark
+|sh eo2361@amdvm227-2.utah.cloudlab.us
+scp eo2361@amdvm227-2.utah.cloudlab.us:~/romeo-tcpdump-snaplen.pcap C:\Users\T\Desktop\NYU\lab_iap\wireshark
+ssh eo2361@amdvm227-2.utah.cloudlab.us
+ssh eo2361@amdvm135-2.utah.cloudlab.us
+|sh eo2361@amdvm227-3.utah.cloudlab.us
+ssh eo2361@amdvm227-3.utah.cloudlab.us
+|sh eo2361@amdvm227-1.utah.cloudlab.us
+|sh eo2361@amdvm227-1.utah.cloudlab.us
+|sh eo2361@amdvm227-1.utah.cloudlab.us
+|sh eo2361@amdvm227-1.utah.cloudlab.us
+|sh eo2361@amdvm227-1.utah.cloudlab.us
+|sh eo2361@amdvm227-1.utah.cloudlab.us
+ssh eo2361@amdvm227-1.utah.cloudlab.us
+|sh eo2361@amdvm135-1.utah.cloudlab.us
+|sh eo2361@amdvm227-1.utah.cloudlab.us
+ssh eo2361@amdvm227-1.utah.cloudlab.us
+|sh eo2361@amdvm135-1.utah.cloudlab.us
+ssh eo2361@amdvm135-1.utah.cloudlab.us
+ssh eo2361@amdvm135-3.utah.cloudlab.us
+|sh eo2361@amdvm135-2.utah.cloudlab.us
+|sh eo2361@amdvm135-2.utah.cloudlab.us
+ssh eo2361@amdvm135-2.utah.cloudlab.us
+ssh eo2361@amdvm135-2.utah.cloudlab.us
+|sh -p 29612 eo2361@amd235.utah.cloudlab.us
+|s
+|wd
+scp ssh -p 29612 eo2361@amd235.utah.cloudlab.us:~/C:\Users\T\Desktop\NYU\lab_iap\ARP
+scp eo2361@amd235.utah.cloudlab.us:~/C:\Users\T\Desktop\NYU\lab_iap\ARP
+|cp eo2361@amd235.utah.cloudlab.us:~/$(hostname -s)-no-arp.pcap C:\Users\T\Desktop\NYU\lab_iap\ARP
+scp eo2361@amd235.utah.cloudlab.us:~/$(hostname -s)-no-arp.pcap ~/C:\Users\T\Desktop\NYU\lab_iap\ARP
+|sh -p 29612 eo2361@amd235.utah.cloudlab.us
+|cp eo2361@amd235.utah.cloudlab.us:~/$(hostname -s)-no-arp.pcap ~/C:\Users\T\Desktop\NYU\lab_iap\ARP\
+|cp eo2361@amd235.utah.cloudlab.us:~/$(hostname -s)-no-arp.pcap ~/C:\Users\T\Desktop\NYU\lab_iap
+scp eo2361@amd235.utah.cloudlab.us:~/(hostname -s)-no-arp.pcap ~/C:\Users\T\Desktop\NYU\lab_iap
+scp eo2361@amd235.utah.cloudlab.us:~/no-arp.pcap ~/C:\Users\T\Desktop\NYU\lab_iap
+scp eo2361@amd235.utah.cloudlab.us:~/$(hostname -s)-no-arp.pcap ~/C:\Users\T\Desktop\NYU\lab_iap
+scp eo2361@amd235.utah.cloudlab.us:~/$(hostname -s)-no-arp.pcap ~/C:\Users\T\Desktop\NYU\
+scp eo2361@amd235.utah.cloudlab.us:~/$(hostname -s)-no-arp.pcap ~C:\Users\T\Desktop\NYU\lab_iap\ARP
+scp eo2361@amd235.utah.cloudlab.us:~/$(hostname -s)-no-arp.pcap C:\Users\T\Desktop\NYU\lab_iap\ARP
+scp eo2361@amd235.utah.cloudlab.us:~/$(hostname -s)-no-arp.pcap ~/C:\Users\T\Desktop\NYU\lab_iap\ARP\
+scp eo2361@amd235.utah.cloudlab.us:~/$(hostname -s)-no-arp.pcap ~/C:\Users\T\Desktop
+|cp eo2361@amd235.utah.cloudlab.us:~/$(hostname -s)-no-arp.pcap ~\C:\Users\T\Desktop\NYU\lab_iap\ARP\
+|cp eo2361@amd235.utah.cloudlab.us:~/$(hostname -s)-no-arp.pcap ~\C:\Users\T\Desktop\NYU\lab_iap\ARP\
+|sh -p 29612 eo2361@amd235.utah.cloudlab.us
+scp eo2361@amd235.utah.cloudlab.us:~/$(hostname -s)-no-arp.pcap ~\C:\Users\T\Desktop\NYU\lab_iap\ARP\
+scp eo2361@amd235.utah.cloudlab.us:~/$(hostname -s)-no-arp.pcap ~\Users\T\Desktop\NYU\lab_iap\ARP\
+|cp eo2361@amd235.utah.cloudlab.us:~/$(hostname -s)-no-arp.pcap ~\C:\Users\T\Desktop\NYU\lab_iap\ARP/
+scp eo2361@amd235.utah.cloudlab.us:~/no-arp.pcap ~\C:\Users\T\Desktop\NYU\lab_iap\ARP
+scp eo2361@amd235.utah.cloudlab.us:~/$(hostname -s)-no-arp.pcap ~\C:\Users\T\Desktop\NYU\lab_iap\ARP/
+|sh -p 29612 eo2361@amd235.utah.cloudlab.us
+|sh -p 29612 eo2361@amd235.utah.cloudlab.us
+|sh -p 29612 eo2361@amd235.utah.cloudlab.us
+|sh -p 29612 eo2361@amd235.utah.cloudlab.us
+|sh -p 29610 eo2361@amd235.utah.cloudlab.us
+|sh -p 29611 eo2361@amd235.utah.cloudlab.us
+ssh -p 29612 eo2361@amd235.utah.cloudlab.us
+ssh -p 29610 eo2361@amd235.utah.cloudlab.us
+ssh -p 29612 eo2361@amd235.utah.cloudlab.us
+ssh -p 29612 eo2361@amd235.utah.cloudlab.us
+ssh -p 29611 eo2361@amd235.utah.cloudlab.us
+ssh -p 29610 eo2361@amd235.utah.cloudlab.us
+ssh -p 29612 eo2361@amd235.utah.cloudlab.us
+ssh -p 29612 eo2361@amd235.utah.cloudlab.usssh -p 29612 eo2361@amd235.utah.cloudlab.us
+ssh -p 29612 eo2361@amd235.utah.cloudlab.us
+ssh -p 29612 eo2361@amd235.utah.cloudlab.us
+ssh -p 29612 eo2361@amd235.utah.cloudlab.us
+ssh -p 29611 eo2361@amd235.utah.cloudlab.us
+ssh -p 29612 eo2361@amd235.utah.cloudlab.us
+|udo apt update  
+|udo apt update  
+sudo apt update  
+|udo apt update
+sudo apt -y install bridge-utils 
+sudo apt update sudo apt -y install bridge-utils  
+sudo apt update
+sudo apt -y install bridge-utils
+ssh -p 34612 eo2361@amd024.utah.cloudlab.us
+ssh -p 34614 eo2361@amd024.utah.cloudlab.us
+ssh -p 34612 eo2361@amd024.utah.cloudlab.us
+ssh -p 34614 eo2361@amd024.utah.cloudlab.us
+ssh -p 34610 eo2361@amd024.utah.cloudlab.us
+ssh -p 34614 eo2361@amd024.utah.cloudlab.us
+ssh -p 34613 eo2361@amd024.utah.cloudlab.us
+ssh -p 34613 eo2361@amd024.utah.cloudlab.us
+ssh -p 34613 eo2361@amd024.utah.cloudlab.us
+ssh -p 34614 eo2361@amd024.utah.cloudlab.us
+|sh -p 34613 eo2361@amd024.utah.cloudlab.us
+ssh -p 34613 eo2361@amd024.utah.cloudlab.us
+ssh -p 34610 eo2361@amd024.utah.cloudlab.us
+ssh -p 34614 eo2361@amd024.utah.cloudlab.us
+ssh -p 34612 eo2361@amd024.utah.cloudlab.us
+ssh -p 34612 eo2361@amd024.utah.cloudlab.us
+ssh -p 34611 eo2361@amd024.utah.cloudlab.us
+ssh -p 34611 eo2361@amd024.utah.cloudlab.us
+|sh -p 25412 eo2361@amd003.utah.cloudlab.us
+|sh -p 25411 eo2361@amd003.utah.cloudlab.us
+sudo ip addr flush dev eth1 sudo ip addr flush dev eth2
+|sh -p 25412 eo2361@amd003.utah.cloudlab.us
+|sh -p 25412 eo2361@amd003.utah.cloudlab.us
+|sh -p 25410 eo2361@amd003.utah.cloudlab.us
+|sh -p 25410 eo2361@amd003.utah.cloudlab.us
+|sh -p 25413 eo2361@amd003.utah.cloudlab.us
+|sh -p 25413 eo2361@amd003.utah.cloudlab.us
+|sh -p 25411 eo2361@amd003.utah.cloudlab.us
+|sh -p 25411 eo2361@amd003.utah.cloudlab.us
+|sh -p 25411 eo2361@amd003.utah.cloudlab.us
+|sh -p 25417 eo2361@amd003.utah.cloudlab.us
+|sh -p 25415 eo2361@amd003.utah.cloudlab.us
+|sh -p 25413 eo2361@amd003.utah.cloudlab.us
+|sh -p 25412 eo2361@amd003.utah.cloudlab.us
+sudo ip addr flush dev eth1 sudo ip addr flush dev eth2
+|sh -p 25411 eo2361@amd003.utah.cloudlab.us
+|sh -p 25411 eo2361@amd003.utah.cloudlab.us
+sudo ip addr flush dev eth1 sudo ip addr flush dev eth2
+|sh -p 25410 eo2361@amd003.utah.cloudlab.us
+|sh -p 25410 eo2361@amd003.utah.cloudlab.us
+|sh -p 25417 eo2361@amd003.utah.cloudlab.us
+|sh -p 25415 eo2361@amd003.utah.cloudlab.us
+|sh -p 25417 eo2361@amd003.utah.cloudlab.us
+|sh -p 25412 eo2361@amd003.utah.cloudlab.us
+|sh -p 25412 eo2361@amd003.utah.cloudlab.us
+sudo ip addr flush dev eth1 sudo ip addr flush dev eth2
+|sh -p 25413 eo2361@amd003.utah.cloudlab.us
+|sh -p 25413 eo2361@amd003.utah.cloudlab.us
+| 64   
+| (0x08
+| 64   
+| (0x08
+| 64   
+| (0x08
+| 64   
+4 (0x08
+h 64   
+|sh -p 25410 eo2361@amd003.utah.cloudlab.us
+|sh -p 25417 eo2361@amd003.utah.cloudlab.us
+|sh -p 25414 eo2361@amd003.utah.cloudlab.us
+|sh -p 25411 eo2361@amd003.utah.cloudlab.us
+|sh -p 25416 eo2361@amd003.utah.cloudlab.us
+|sh -p 25416 eo2361@amd003.utah.cloudlab.us
+|sh -p 25416 eo2361@amd003.utah.cloudlab.us
+|sh -p 25415 eo2361@amd003.utah.cloudlab.us
+|sh -p 25413 eo2361@amd003.utah.cloudlab.us
+|sh -p 25413 eo2361@amd003.utah.cloudlab.us
+|sh -p 25412 eo2361@amd003.utah.cloudlab.us
+|sh -p 25410 eo2361@amd003.utah.cloudlab.us
+ssh -p 25413 eo2361@amd003.utah.cloudlab.us
+ssh -p 25411 eo2361@amd003.utah.cloudlab.us
+ssh -p 25415 eo2361@amd003.utah.cloudlab.usssh -p 25415 eo2361@amd003.utah.cloudlab.us
+|sh -p 25415 eo2361@amd003.utah.cloudlab.us
+scp -P 25415 eo2361@amd003.utah.cloudlab.us:/home/eo2361/capture.pcap C:/Users/T/Desktop/NYU/capture.pcap
+|sh -p 25415 eo2361@amd003.utah.cloudlab.us
+|wd
+|cp eo2361@amd003.utah.cloudlab.us:/users/eo2361/stp-othello-4.pcap C:/Users/T/Desktop/NYU/lab3.txt
+scp eo2361@amd003.utah.cloudlab.us:/users/eo2361/stp-othello-4.pcap C:/Users/T/Desktop/NYU/lab3.txt
+ssh -p 25415 eo2361@amd003.utah.cloudlab.us
+|cp eo2361@amd003.utah.cloudlab.us:/users/eo2361/stp-othello-4.pcap C:/Users/T/Desktop/NYU
+scp eo2361@amd003.utah.cloudlab.us:/users/eo2361/stp-othello-4.pcap C:/Users/T/Desktop/NYU
+scp -P 25415 eo2361@amd003.utah.cloudlab.us:/users/eo2361/stp-othello-4.pcap C:/Users/T/Desktop/NYU
+ssh -p 25410 eo2361@amd003.utah.cloudlab.us
+ssh -p 25414 eo2361@amd003.utah.cloudlab.us
+scp ssh -p 25414 eo2361@amd003.utah.cloudlab.us:/users/eo2361/stp-hamlet-4.pcap C:/Users/T/Desktop/NYU
+scp -P 25414 eo2361@amd003.utah.cloudlab.us:/users/eo2361/stp-hamlet-4.pcap C:/Users/T/Desktop/NYU
+|sh -p 25410 eo2361@amd003.utah.cloudlab.us
+ssh -p 25410 eo2361@amd003.utah.cloudlab.us
+ssh -p 25417 eo2361@amd003.utah.cloudlab.us
+ssh -p 25416 eo2361@amd003.utah.cloudlab.us
+|cp -p 25415 eo2361@amd003.utah.cloudlab.us:/users/eo2361/stp-othello-4.pcap C:\Users\T\Desktop\NYU\lab3.txt
+scp -p 25415 eo2361@amd003.utah.cloudlab.us:/users/eo2361/stp-othello-4.pcap C:\Users\T\Desktop\NYU\lab3.txt
+scp -P 25415 eo2361@amd003.utah.cloudlab.us:/users/eo2361/stp-othello-4.pcap C:\Users\T\Desktop\NYU\lab3.txt
+scp -P 25415 eo2361@amd003.utah.cloudlab.us:/users/eo2361/stp-othello-4.pcap C:\Users\T\Desktop\NYU\
+|sh -p 25415 eo2361@amd003.utah.cloudlab.us
+|wd
+|sh -p 25415 eo2361@amd003.utah.cloudlab.us
+|cp eo2361@amd003.utah.cloudlab.us:/users/eo2361/stp-othello-4.pcap C:/Users/T/Desktop/NYU/lab3.txt
+scp eo2361@amd003.utah.cloudlab.us:/users/eo2361/stp-othello-4.pcap C:/Users/T/Desktop/NYU/lab3.txt
+ssh -p 25415 eo2361@amd003.utah.cloudlab.us
+|sh -p 25413 eo2361@amd003.utah.cloudlab.us
+ssh -p 25413 eo2361@amd003.utah.cloudlab.us
+ssh -p 25417 eo2361@amd003.utah.cloudlab.us
+ssh -p 25417 eo2361@amd003.utah.cloudlab.us
+ssh -p 25412 eo2361@amd003.utah.cloudlab.us
+ssh -p 25411 eo2361@amd003.utah.cloudlab.us
+ssh -p 25412 eo2361@amd003.utah.cloudlab.us
+|sh -p 36410 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36411 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36417 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36412 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|s
+|cp eo2361@ms1326.utah.cloudlab.us:/users/eo2361/romeo-net-unreachable.pcap C:/Users/T/Desktop/NYU
+scp -p 36414 eo2361@ms1326.utah.cloudlab.us:/users/eo2361/romeo-net-unreachable.pcap C:/Users/T/Desktop/NYU
+scp eo2361@ms1326.utah.cloudlab.us:/users/eo2361/romeo-net-unreachable.pcap C:/Users/T/Desktop/NYU
+|sh -p 36411 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36411 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36411 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36411 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36411 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36410 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36410 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36410 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36410 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36410 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36410 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36410 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36412 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36412 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36412 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36412 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36411 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36411 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36411 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36412 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36412 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36411 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36411 eo2361@ms1326.utah.cloudlab.us
+ssh -p 36411 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36410 eo2361@ms1326.utah.cloudlab.us
+ssh -p 36410 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36412 eo2361@ms1326.utah.cloudlab.us
+ssh -p 36412 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36412 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36412 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36412 eo2361@ms1326.utah.cloudlab.us
+ssh -p 36412 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36410 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36410 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36410 eo2361@ms1326.utah.cloudlab.us
+ssh -p 36410 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36411 eo2361@ms1326.utah.cloudlab.us
+ssh -p 36411 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+ssh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36413 eo2361@ms1326.utah.cloudlab.us
+ssh -p 36413 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+ssh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36417 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36417 eo2361@ms1326.utah.cloudlab.us
+ssh -p 36417 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36415 eo2361@ms1326.utah.cloudlab.us
+ssh -p 36415 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36417 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36417 eo2361@ms1326.utah.cloudlab.us
+ssh -p 36417 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36416 eo2361@ms1326.utah.cloudlab.us
+ssh -p 36416 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 36414 eo2361@ms1326.utah.cloudlab.us
+ssh -p 36414 eo2361@ms1326.utah.cloudlab.us
+|sh -p 25410 eo2361@c220g1-030624.wisc.cloudlab.us
+|sh -p 25410 eo2361@c220g1-030624.wisc.cloudlab.us
+sudo ip route add default via 10.1.78.129
+|sh -p 25410 eo2361@c220g1-030624.wisc.cloudlab.us
+|sh -p 25410 eo2361@c220g1-030624.wisc.cloudlab.us
+|sh -p 25410 eo2361@c220g1-030624.wisc.cloudlab.us
+|sh -p 25410 eo2361@c220g1-030624.wisc.cloudlab.us
+|sh -p 25410 eo2361@c220g1-030624.wisc.cloudlab.us
+ssh -p 25412 eo2361@c220g1-030624.wisc.cloudlab.us
+ssh -p 25417 eo2361@c220g1-030624.wisc.cloudlab.us
+ssh -p 25416 eo2361@c220g1-030624.wisc.cloudlab.us
+|sh -p 25410 eo2361@c220g1-030624.wisc.cloudlab.us
+|sh -p 25410 eo2361@c220g1-030624.wisc.cloudlab.us
+|sh -p 25410 eo2361@c220g1-030624.wisc.cloudlab.us
+ssh -p 25416 eo2361@c220g1-030624.wisc.cloudlab.us
+ssh -p 25418 eo2361@c220g1-030624.wisc.cloudlab.us
+ssh -p 25414 eo2361@c220g1-030624.wisc.cloudlab.us
+ssh -p 25411 eo2361@c220g1-030624.wisc.cloudlab.us
+ssh -p 25413 eo2361@c220g1-030624.wisc.cloudlab.us
+ssh -p 25418 eo2361@c220g1-030624.wisc.cloudlab.us
+ssh -p 25417 eo2361@c220g1-030624.wisc.cloudlab.us
+ssh -p 25415 eo2361@c220g1-030624.wisc.cloudlab.us
+|sh -p 25410 eo2361@c220g1-030624.wisc.cloudlab.us
+|sh -p 31411 eo2361@hp023.utah.cloudlab.us
+|sh -p 31411 eo2361@hp023.utah.cloudlab.us
+|sh -p 31413 eo2361@hp032.utah.cloudlab.us
+|sh -p 31413 eo2361@hp032.utah.cloudlab.us
+|sh -p 31411 eo2361@hp032.utah.cloudlab.us
+|sh -p 31410 eo2361@hp032.utah.cloudlab.us
+|sh -p 31410 eo2361@hp023.utah.cloudlab.us
+|sh -p 31412 eo2361@hp032.utah.cloudlab.us
+|sh -p 31412 eo2361@hp023.utah.cloudlab.us
+|sh -p 31411 eo2361@hp023.utah.cloudlab.us
+|sh -p 31413 eo2361@hp032.utah.cloudlab.us
+|sh -p 31413 eo2361@hp032.utah.cloudlab.us
+ssh -p 31413 eo2361@hp032.utah.cloudlab.us
+|sh -p 25410 eo2361@c220g1-030624.wisc.cloudlab.us
+ssh -p 25410 eo2361@c220g1-030624.wisc.cloudlab.us
+|sh -p 31411 eo2361@hp023.utah.cloudlab.us
+|sh -p 31411 eo2361@hp023.utah.cloudlab.us
+ssh -p 31411 eo2361@hp023.utah.cloudlab.us
+|sh -p 31414 eo2361@hp032.utah.cloudlab.us
+|sh -p 31414 eo2361@hp032.utah.cloudlab.us
+|sh -p 31414 eo2361@hp032.utah.cloudlab.us
+ssh -p 31414 eo2361@hp032.utah.cloudlab.us
+|sh -p 31412 eo2361@hp032.utah.cloudlab.us
+|cp eo2361@hp032.utah.cloudlab.us:/users/eo2361/romeo-net61-rip-failure.pcap C:/Users/T/Desktop/NYU
+|cp eo2361@hp032.utah.cloudlab.us:/users/eo2361/romeo-net61-rip-failure.pcap C:/Users/T/Desktop/NYU
+|cp eo2361@hp032.utah.cloudlab.us:/users/eo2361/romeo-net61-rip-failure.pcap C:/Users/T/Desktop/NYU
+scp -p 31412 eo2361@hp032.utah.cloudlab.us:/users/eo2361/romeo-net61-rip-failure.pcap C:/Users/T/Desktop/NYU
+scp -p 31412 eo2361@hp032.utah.cloudlab.us:/users/eo2361/romeo-net61-rip.pcap C:/Users/T/Desktop/NYU
+scp -p 31412 eo2361@hp032.utah.cloudlab.us:~/romeo-net61-rip-failure.pcap C:/Users/T/Desktop/NYU
+scp eo2361@hp032.utah.cloudlab.us:/users/eo2361/romeo-net61-rip-failure.pcap C:/Users/T/Desktop/NYU
+ssh -p 31412 eo2361@hp032.utah.cloudlab.us
+|cp -P 31412 eo2361@hp032.utah.cloudlab.us:/users/eo2361/romeo-net61-rip-failure.pcap C:/Users/T/Desktop/NYU
+scp -P 31412 eo2361@hp032.utah.cloudlab.us:/users/eo2361/romeo-net61-rip.pcap C:/Users/T/Desktop/NYU
+ssh -p 31410 eo2361@hp032.utah.cloudlab.us
+scp -P 31410 eo2361@hp032.utah.cloudlab.us:/users/eo2361/othello-net63-rip-failure.pcap C:/Users/T/Desktop/NYU
+scp -P 31410 eo2361@hp032.utah.cloudlab.us:/users/eo2361/othello-net63-rip.pcap C:/Users/T/Desktop/NYU
+ssh -p 25410 eo2361@c220g1-030624.wisc.cloudlab.us
+|sh -p 31412 eo2361@hp023.utah.cloudlab.us
+|sh -p 31412 eo2361@hp023.utah.cloudlab.us
+ssh -p 31412 eo2361@hp023.utah.cloudlab.us
+|sh -p 31410 eo2361@hp023.utah.cloudlab.us
+ssh -p 31410 eo2361@hp023.utah.cloudlab.us
+scp -P 31410 eo2361@hp023.utah.cloudlab.us:/users/eo2361/hpvm023-1-net62-rip-failure.pcap C:/Users/T/Desktop/NYU
+scp -P 31410 eo2361@hp023.utah.cloudlab.us:/users/eo2361/hpvm023-1-net62-rip.pcap C:/Users/T/Desktop/NYU
+|sh -p 31411 eo2361@hp032.utah.cloudlab.us
+ssh -p 31411 eo2361@hp032.utah.cloudlab.us
+scp -P 31411 eo2361@hp032.utah.cloudlab.us:/users/eo2361/petruchio-net64-rip-failure.pcap C:/Users/T/Desktop/NYU
+|cp -P 31411 eo2361@hp032.utah.cloudlab.us:/users/eo2361/petruchio-net64-rip.pcap C:/Users/T/Desktop/NYU
+scp -P 31411 eo2361@hp032.utah.cloudlab.us:/users/eo2361/petruchio-net64-rip.pcap C:/Users/T/Desktop/NYU
+|sh -p 28811 eo2361@ms0931.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0931.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0928.utah.cloudlab.us
+|s
+scp -P 28810 eo2361@ms0931.utah.cloudlab.us:/users/eo2361/othello-traceroute.pcap C:/Users/T/Desktop/NYU
+|sh -p 28810 eo2361@ms0903.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0928.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0931.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0928.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0928.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0928.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0945.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0928.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0928.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0928.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0931.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0928.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0928.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0928.utah.cloudlab.us
+ssh -p 28811 eo2361@ms0945.utah.cloudlab.us
+ssh -p 28811 eo2361@ms0931.utah.cloudlab.us
+|sh -p 28811 eo2361@ms0903.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0931.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0928.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0903.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0945.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0945.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0931.utah.cloudlab.us
+ssh -p 28811 eo2361@ms0928.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0945.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0903.utah.cloudlab.us
+|sh -p 28810 eo2361@ms0928.utah.cloudlab.us
+ssh -p 28810 eo2361@ms0945.utah.cloudlab.us
+ssh -p 28810 eo2361@ms0928.utah.cloudlab.us
+ssh -p 28810 eo2361@ms0903.utah.cloudlab.us
+ssh -p 28810 eo2361@ms0928.utah.cloudlab.us
+ssh -p 28810 eo2361@ms0928.utah.cloudlab.us
+ip route get 10.10.64.100
+ssh -p 28810 eo2361@ms0928.utah.cloudlab.us
+ssh -p 28810 eo2361@ms0945.utah.cloudlab.us
+ssh -p 28810 eo2361@ms0928.utah.cloudlab.us
+ssh -p 28810 eo2361@ms0928.utah.cloudlab.us
+ssh -p 28810 eo2361@ms0931.utah.cloudlab.us
+ssh -p 28810 eo2361@ms0928.utah.cloudlab.us
+ssh -p 28811 eo2361@ms0903.utah.cloudlab.us
+ssh -p 28810 eo2361@ms0928.utah.cloudlab.us
+ssh -p 28810 eo2361@ms0931.utah.cloudlab.us
+ssh -p 28810 eo2361@ms0928.utah.cloudlab.us
+|sh -p 32411 eo2361@amd015.utah.cloudlab.us
+|sh -p 32411 eo2361@amd015.utah.cloudlab.us
+ssh -p 32411 eo2361@amd015.utah.cloudlab.us
+ssh -p 32410 eo2361@amd015.utah.cloudlab.us
+|sh -p 32410 eo2361@amd015.utah.cloudlab.us
+|sh -p 32410 eo2361@amd015.utah.cloudlab.us
+ssh -p 32410 eo2361@amd015.utah.cloudlab.us
+|sh -p 32412 eo2361@amd015.utah.cloudlab.us
+|sh -p 32412 eo2361@amd015.utah.cloudlab.us
+ssh -p 32412 eo2361@amd015.utah.cloudlab.us
+ssh -p 32411 eo2361@amd015.utah.cloudlab.us
+ssh -p 32411 eo2361@amd015.utah.cloudlab.us
+scp -P 32411 eo2361@amd015.utah.cloudlab.us:/users/eo2361/romeo-echoping.pcap C:/Users/T/Desktop/NYU
+scp -P 32411 eo2361@amd015.utah.cloudlab.us:/users/eo2361/echoping.pcap C:/Users/T/Desktop/NYU
+scp -P 32411 eo2361@amd015.utah.cloudlab.us:/users/eo2361/-echoping.pcap C:/Users/T/Desktop/NYU
+ssh -p 32411 eo2361@amd015.utah.cloudlab.us
+ssh -p 32410 eo2361@amd015.utah.cloudlab.us
+ssh -p 32411 eo2361@amd015.utah.cloudlab.us
+ssh -p 28610 eo2361@ms0915.utah.cloudlab.us
+|sh -p 28611 eo2361@ms0915.utah.cloudlab.us
+|cp -P 31412 eo2361@hp032.utah.cloudlab.us:/users/eo2361/romeo-net61-rip-failure.pcap C:/Users/T/Desktop/NYU
+scp -P 28611 eo2361@ms0915.utah.cloudlab.us:/users/eo2361/romeo-ip-fragment.pcap C:/Users/T/Desktop/NYU
+scp -P 28611 eo2361@ms0915.utah.cloudlab.us:/users/eo2361/romeo-no-ip-fragment.pcap C:/Users/T/Desktop/NYU
+ssh -p 28611 eo2361@ms0915.utah.cloudlab.us
+ssh -p 28610 eo2361@ms0915.utah.cloudlab.us
+ssh -p 28611 eo2361@ms0915.utah.cloudlab.us
+ssh -p 28610 eo2361@ms0915.utah.cloudlab.us
+ssh -p 28611 eo2361@ms0915.utah.cloudlab.us
+ssh -p 28610 eo2361@ms0915.utah.cloudlab.us
+ssh -p 28611 eo2361@ms0915.utah.cloudlab.us
+|sh -p 34411 eo2361@amd187.utah.cloudlab.us
+|sh -p 34411 eo2361@amd187.utah.cloudlab.us
+ssh -p 34411 eo2361@amd187.utah.cloudlab.us
+|sh -p 34410 eo2361@amd187.utah.cloudlab.us
+|sh -p 34410 eo2361@amd187.utah.cloudlab.us
+ssh -p 34410 eo2361@amd187.utah.cloudlab.us
+|sh -p 34411 eo2361@amd187.utah.cloudlab.us
+|sh -p 34411 eo2361@amd187.utah.cloudlab.us
+ssh -p 34411 eo2361@amd187.utah.cloudlab.us
+|sh -p 34410 eo2361@amd187.utah.cloudlab.us
+|sh -p 34410 eo2361@amd187.utah.cloudlab.us
+ssh -p 34410 eo2361@amd187.utah.cloudlab.us
+|sh -p 34411 eo2361@amd187.utah.cloudlab.us
+|sh -p 34411 eo2361@amd187.utah.cloudlab.us
+ssh -p 34411 eo2361@amd187.utah.cloudlab.us
+|s
+|wd
+scp -P 34411 eo2361@amd187.utah.cloudlab.us:/users/eo2361/romeo-tcp-connection-establishment.pcap C:/Users/T/Desktop/NYU
+scp -P 34411 eo2361@amd187.utah.cloudlab.us:/users/eo2361/romeo-tcp-connection-refused.pcap C:/Users/T/Desktop/NYU
+|sh -p 34410 eo2361@amd187.utah.cloudlab.us
+|sh -p 34410 eo2361@amd187.utah.cloudlab.us
+ssh -p 34410 eo2361@amd187.utah.cloudlab.us
+|sh -p 29011 eo2361@c220g2-010810.wisc.cloudlab.us
+|sh -p 29012 eo2361@c220g2-010810.wisc.cloudlab.us
+|sh -p 29010 eo2361@c220g2-010810.wisc.cloudlab.us
+|sh -p 29010 eo2361@c220g2-010810.wisc.cloudlab.us
+|sh -p 29012 eo2361@c220g2-010810.wisc.cloudlab.us
+|sh -p 29011 eo2361@c220g2-010810.wisc.cloudlab.us
+|sh -p 29010 eo2361@c220g2-010810.wisc.cloudlab.us
+|sh -p 29012 eo2361@c220g2-010810.wisc.cloudlab.us
+|sh -p 29011 eo2361@c220g2-010810.wisc.cloudlab.us
+scp -P 34411 eo2361@amd187.utah.cloudlab.us:/users/eo2361/romeo-tcp-bulk-interrupted.pcap C:/Users/T/Desktop/NYU
+|cp -P 29011 eo2361@c220g2-010810.wisc.cloudlab.us:/users/eo2361/romeo-tcp-bulk-interrupted.pcap C:/Users/T/Desktop/NYU
+scp -P 29011 eo2361@c220g2-010810.wisc.cloudlab.us:/users/eo2361/romeo-tcp-bulk-interrupted.pcap C:/Users/T/Desktop/NYU
+|sh -p 29011 eo2361@c220g2-010810.wisc.cloudlab.us
+|sh -p 29011 eo2361@c220g2-010810.wisc.cloudlab.us
+|sh -p 29010 eo2361@c220g2-010810.wisc.cloudlab.us
+|sh -p 29011 eo2361@c220g2-010810.wisc.cloudlab.us
+|sh -p 29011 eo2361@c220g2-010810.wisc.cloudlab.us
+scp -P 29011 eo2361@c220g2-010810.wisc.cloudlab.us:/users/eo2361/romeo-tcp-bulk-error.pcap C:/Users/T/Desktop/NYU
+scp -P 29011 eo2361@c220g2-010810.wisc.cloudlab.us:/users/eo2361/file.txt C:/Users/T/Desktop/NYU
+scp -P 29011 eo2361@c220g2-010810.wisc.cloudlab.us:/users/eo2361/file-sender.py C:/Users/T/Desktop/NYU
+|sh -p 29011 eo2361@c220g2-010810.wisc.cloudlab.us
+|sh -p 29010 eo2361@c220g2-010810.wisc.cloudlab.us
+|sh -p 29012 eo2361@c220g2-010810.wisc.cloudlab.us
+|sh -p 29012 eo2361@c220g2-010810.wisc.cloudlab.us
+ssh -p 29011 eo2361@c220g2-010810.wisc.cloudlab.us
+ssh -p 29011 eo2361@c220g2-010810.wisc.cloudlab.us
+ssh -p 29010 eo2361@c220g2-010810.wisc.cloudlab.us
+ssh -p 29012 eo2361@c220g2-010810.wisc.cloudlab.us
+ssh -p 29011 eo2361@c220g2-010810.wisc.cloudlab.us
+ssh -p 26610 eo2361@apt008.apt.emulab.net
+ssh -p 26611 eo2361@apt008.apt.emulab.net
+ssh -p 26612 eo2361@apt008.apt.emulab.net
+ssh -p 26611 eo2361@apt008.apt.emulab.net
+|sh -p 26611 eo2361@apt008.apt.emulab.net
+|cp -P 26611 eo2361@apt008.apt.emulab.net:/users/eo2361/romeo-tcp-bulk-interrupted.pcap C:/Users/T/Desktop/NYU
+ssh -p 26611 eo2361@apt008.apt.emulab.net
+|cp -P 26611 eo2361@apt008.apt.emulab.net:/users/eo2361/romeo-tcp-bulk-interrupted.pcap C:/Users/T/Desktop/NYU
+scp -P 26611 eo2361@apt008.apt.emulab.net:/users/eo2361/romeo-tcp-bulk-interrupted.pcap C:/Users/T/Desktop/NYU
+|sh -p 29210 eo2361@ms1026.utah.cloudlab.us
+|sh -p 29210 eo2361@ms1316.utah.cloudlab.us
+|sh -p 29211 eo2361@ms1026.utah.cloudlab.us
+|sh -p 29210 eo2361@ms1026.utah.cloudlab.us
+|sh -p 29210 eo2361@ms1316.utah.cloudlab.us
+|sh -p 29210 eo2361@ms1316.utah.cloudlab.us
+scp -p 29210 eo2361@ms1316.utah.cloudlab.us:/users/eo2361/romeo-tcp-bulk-cwnd.pcap C:/Users/T/Desktop/NYU
+|cp -P 29210 eo2361@ms1316.utah.cloudlab.us:/users/eo2361/romeo-tcp-bulk-cwnd.pcap C:/Users/T/Desktop/NYU
+|cp -P 29210 eo2361@ms1316.utah.cloudlab.us:/users/eo2361/romeo-tcp-bulk-cwnd.pcap C:/Users/T/Desktop/NYU
+|sh -p 29210 eo2361@ms1316.utah.cloudlab.us
+|cp -P 29210 eo2361@ms1316.utah.cloudlab.us:/users/eo2361/romeo-tcp-bulk-cwnd.pcap C:/Users/T/Desktop/NYU
+|cp -P 29210 eo2361@ms1316.utah.cloudlab.us:/users/eo2361/romeo-tcp-bulk-cwnd.pcap C:/Users/T/Desktop/NYU
+|cp -P 29210 eo2361@ms1316.utah.cloudlab.us:/users/eo2361/romeo-tcp-bulk-cwnd.pcap C:/Users/T/Desktop/NYU
+|cp -P 29210 eo2361@ms1316.utah.cloudlab.us:/users/eo2361/romeo-tcp-bulk-cwnd.pcap C:/Users/T/Desktop/NYU
+|cp -P 29210 eo2361@ms1316.utah.cloudlab.us:/users/eo2361/romeo-tcp-bulk-cwnd.pcap C:/Users/T/Desktop/NYU
+scp -P 29210 eo2361@ms1316.utah.cloudlab.us:/users/eo2361/romeo-tcp-bulk-cwnd.pcap
+|s
+|wd
+|cp -P 29210 eo2361@ms1316.utah.cloudlab.us:/users/eo2361/romeo-tcp-bulk-cwnd.pcap C:\Users\T\Desktop\NYU
+scp -P 29210 eo2361@ms1316.utah.cloudlab.us:/users/eo2361/romeo-tcp-bulk-cwnd.pcap C:\Users\T\Desktop\NYU
+|cp -P 29210 eo2361@ms1316.utah.cloudlab.us:/users/eo2361/romeo-tcp-bulk-cwnd.pcap C:/Users/T/Desktop/NYU
+|sh -p 29210 eo2361@ms1026.utah.cloudlab.us
+|sh -p 29210 eo2361@ms1316.utah.cloudlab.us
+|sh -p 29210 eo2361@ms1316.utah.cloudlab.us
+scp -P 29210 eo2361@ms1316.utah.cloudlab.us:/users/eo2361/romeo-tcp-bulk-cwnd.pcap C:/Users/T/Desktop/NYU
+pwd
+scp -P 29210 eo2361@ms1316.utah.cloudlab.us:/users/eo2361/romeo-tcp-bulk-cwnd.pcap C:/Users/T/Desktop
+|sh -p 29210 eo2361@ms1316.utah.cloudlab.us
+|sh -p 29210 eo2361@ms1316.utah.cloudlab.us
+|sh -p 29210 eo2361@ms1026.utah.cloudlab.us
+|sh -p 29210 eo2361@ms1316.utah.cloudlab.us
+|sh -p 29210 eo2361@ms1316.utah.cloudlab.us
+|sh -p 29210 eo2361@ms1316.utah.cloudlab.us
+|sh -p 29211 eo2361@ms1026.utah.cloudlab.us
+|sh -p 29211 eo2361@ms1026.utah.cloudlab.us
+|sh -p 29210 eo2361@ms1026.utah.cloudlab.us
+|sh -p 29210 eo2361@ms1316.utah.cloudlab.us
+|sh -p 29210 eo2361@ms1316.utah.cloudlab.us
+|sh -p 29210 eo2361@ms1316.utah.cloudlab.us
+scp -P 29210 eo2361@ms1316.utah.cloudlab.us:/users/eo2361/romeo-tcp-bulk-rwnd.pcap C:/Users/T/Desktop/NYU
+|sh -p 29210 eo2361@ms1316.utah.cloudlab.us
+|sh -p 29210 eo2361@ms1026.utah.cloudlab.us
+|sh -p 29210 eo2361@ms1026.utah.cloudlab.us
+|sh -p 29210 eo2361@ms1026.utah.cloudlab.us
+|sh -p 29210 eo2361@ms1316.utah.cloudlab.us
+|sh -p 29210 eo2361@ms1316.utah.cloudlab.us
+ssh -p 29210 eo2361@ms1026.utah.cloudlab.us
+ssh -p 29211 eo2361@ms1026.utah.cloudlab.us
+ssh -p 29210 eo2361@ms1316.utah.cloudlab.us
+ssh -p 29210 eo2361@ms1316.utah.cloudlab.us
+ssh -p 26011 eo2361@amd249.utah.cloudlab.us
+ssh -p 26010 eo2361@amd249.utah.cloudlab.us
+|sh -p 26011 eo2361@amd249.utah.cloudlab.us
+scp -P 26011 eo2361@amd249.utah.cloudlab.us:/users/eo2361/sender-ss.csv C:/Users/T/Desktop/NYU
+scp -P 26011 eo2361@amd249.utah.cloudlab.us:/users/eo2361/sender-ss.txt C:/Users/T/Desktop/NYU
+scp -P 26011 eo2361@amd249.utah.cloudlab.us:/users/eo2361/ss-output.sh C:/Users/T/Desktop/NYU
+scp -P 26011 eo2361@amd249.utah.cloudlab.us:/users/eo2361/sender-ss.png C:/Users/T/Desktop/NYU
+|sh -p 26011 eo2361@amd249.utah.cloudlab.us
+scp -P 26011 eo2361@amd249.utah.cloudlab.us:/users/eo2361/cwnd-rtt.png C:/Users/T/Desktop/NYU
+ssh -p 26011 eo2361@amd249.utah.cloudlab.us
+ssh -p 26010 eo2361@amd249.utah.cloudlab.us
+|sh -p 26011 eo2361@amd249.utah.cloudlab.us
+scp -P ssh -p 26011 eo2361@amd249.utah.cloudlab.us:/users/eo2361/ss-output.sh C:/Users/T/Desktop/NYU
+scp -P 26011 eo2361@amd249.utah.cloudlab.us:/users/eo2361/ss-output.sh C:/Users/T/Desktop/NYU
+scp -P 26011 eo2361@amd249.utah.cloudlab.us:/users/eo2361/cwnd-rtt.pn C:/Users/T/Desktop/NYU
+scp -P 26011 eo2361@amd249.utah.cloudlab.us:/users/eo2361/cwnd-rtt.png C:/Users/T/Desktop/NYU
+ssh -p 26011 eo2361@amd249.utah.cloudlab.us
+scp -P 26011 eo2361@amd249.utah.cloudlab.us:/users/eo2361/romeo-tcp-ecn.pcap C:/Users/T/Desktop/NYU
+ssh -p 26012 eo2361@amd249.utah.cloudlab.us
+|sh -p 33014 eo2361@ms1028.utah.cloudlab.us
+|sh -p 33013 eo2361@ms1028.utah.cloudlab.us
+|sh -p 33010 eo2361@ms1028.utah.cloudlab.us
+|sh -p 33012 eo2361@ms1028.utah.cloudlab.us
+|sh -p 33011 eo2361@ms1028.utah.cloudlab.us
+|sh -p 33014 eo2361@ms1028.utah.cloudlab.us
+ssh -p 33014 eo2361@ms1028.utah.cloudlab.us
+|cp -P 31412 eo2361@hp032.utah.cloudlab.us:/users/eo2361/romeo-net61-rip-failure.pcap C:/Users/T/Desktop/NYU
+scp -P 33013 eo2361@ms1028.utah.cloudlab.us:/users/eo2361/simple-multicast-mac-romeo.pcap C:/Users/T/Desktop/NYU
+ssh -p 33014 eo2361@ms1028.utah.cloudlab.us
+ssh -p 33013 eo2361@ms1028.utah.cloudlab.us
+ssh -p 33012 eo2361@ms1028.utah.cloudlab.us
+|sh -p 33010 eo2361@ms1028.utah.cloudlab.us
+ssh -p 33010 eo2361@ms1028.utah.cloudlab.us
+ssh -p 33014 eo2361@ms1028.utah.cloudlab.us
+|sh -p 33013 eo2361@ms1028.utah.cloudlab.us
+ssh -p 33013 eo2361@ms1028.utah.cloudlab.us
+ssh -p 33014 eo2361@ms1028.utah.cloudlab.us
+ssh -p 33013 eo2361@ms1028.utah.cloudlab.us
+|sh -p 33011 eo2361@ms1028.utah.cloudlab.us
+ssh -p 33011 eo2361@ms1028.utah.cloudlab.us
+|sh -p 27613 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27611 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27614 eo2361@c220g5-111318.wisc.cloudlab.us
+yes
+|sh -p 27610 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27613 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27617 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27614 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27612 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27612 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27611 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27617 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27611 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27612 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27614 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27615 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27612 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27613 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27613 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27616 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27613 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27614 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27614 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27615 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27612 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27613 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27612 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27612 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27611 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27614 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27611 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27611 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27614 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27617 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27616 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27613 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27617 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27617 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27617 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27612 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27611 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27611 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27613 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27617 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111020.wisc.cloudlab.us
+|udo tcpdump -nv 'pim and pim[0:1]!=32' -i eth1
+sudo tcpdump -nv 'pim and pim[0:1]!=32' -i eth1
+|sh -p 27610 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27611 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27611 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27617 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27617 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27617 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27612 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27612 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27613 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27614 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27614 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27613 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27612 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27613 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27612 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27617 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27611 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111318.wisc.cloudlab.us
+ssh -p 27610 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27614 eo2361@c220g5-111020.wisc.cloudlab.us
+ssh -p 27614 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27613 eo2361@c220g5-111020.wisc.cloudlab.us
+ssh -p 27613 eo2361@c220g5-111020.wisc.cloudlab.us
+ssh -p 27612 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111020.wisc.cloudlab.us
+ssh -p 27610 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27613 eo2361@c220g5-111318.wisc.cloudlab.us
+ssh -p 27613 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27612 eo2361@c220g5-111020.wisc.cloudlab.us
+ssh -p 27612 eo2361@c220g5-111020.wisc.cloudlab.us
+ssh -p 27610 eo2361@c220g5-111318.wisc.cloudlab.us
+ssh -p 27617 eo2361@c220g5-111318.wisc.cloudlab.us
+ssh -p 27614 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27617 eo2361@c220g5-111318.wisc.cloudlab.us
+ssh -p 27617 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27611 eo2361@c220g5-111318.wisc.cloudlab.us
+ssh -p 27611 eo2361@c220g5-111318.wisc.cloudlab.us
+ssh -p 27617 eo2361@c220g5-111318.wisc.cloudlab.us
+ssh -p 27614 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27611 eo2361@c220g5-111020.wisc.cloudlab.us
+ssh -p 27611 eo2361@c220g5-111020.wisc.cloudlab.us
+ssh -p 27610 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27613 eo2361@c220g5-111020.wisc.cloudlab.us
+ssh -p 27613 eo2361@c220g5-111020.wisc.cloudlab.us
+ssh -p 27613 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh -p 27615 eo2361@c220g5-111318.wisc.cloudlab.us
+ssh -p 27615 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111318.wisc.cloudlab.us
+ssh -p 27610 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27616 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27616 eo2361@c220g5-111318.wisc.cloudlab.us
+ssh -p 27616 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27614 eo2361@c220g5-111318.wisc.cloudlab.us
+ssh -p 27614 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27613 eo2361@c220g5-111318.wisc.cloudlab.us
+ssh -p 27613 eo2361@c220g5-111318.wisc.cloudlab.us
+ssh -p 27613 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27613 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27613 eo2361@c220g5-111318.wisc.cloudlab.us
+ssh -p 27613 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27616 eo2361@c220g5-111318.wisc.cloudlab.us
+ssh -p 27616 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27612 eo2361@c220g5-111318.wisc.cloudlab.us
+ssh -p 27612 eo2361@c220g5-111318.wisc.cloudlab.us
+|sh -p 27610 eo2361@c220g5-111020.wisc.cloudlab.us
+ssh -p 27610 eo2361@c220g5-111020.wisc.cloudlab.us
+ssh -p 27611 eo2361@c220g5-111020.wisc.cloudlab.us
+|sh eo2361@pcvm606-6.emulab.net
+|sh -p 28211 eo2361@clnode176.clemson.cloudlab.us
+|sh eo2361@clnodevm176-1.clemson.cloudlab.us
+|sh -p 28212 eo2361@clnode176.clemson.cloudlab.us
+|sh -p 28211 eo2361@clnode176.clemson.cloudlab.us
+|sh eo2361@pcvm606-6.emulab.net
+|sh eo2361@clnodevm176-1.clemson.cloudlab.us
+ssh eo2361@pcvm606-6.emulab.net
+ssh eo2361@clnodevm176-1.clemson.cloudlab.us
+ssh -p 28212 eo2361@clnode176.clemson.cloudlab.us
+ssh -p 28211 eo2361@clnode176.clemson.cloudlab.us
+ssh eo2361@aptvm178-1.apt.emulab.net
+ssh eo2361@pcvm606-4.emulab.net
+ssh -p 25011 eo2361@apt178.apt.emulab.net
+ssh -p 25012 eo2361@apt178.apt.emulab.net
+|sh eo2361@pcvm604-6.emulab.net
+|sh eo2361@c220g2-011325vm-1.wisc.cloudlab.us
+|sh -p 27012 eo2361@c220g2-011325.wisc.cloudlab.us
+|sh -p 27011 eo2361@c220g2-011325.wisc.cloudlab.us
+ssh eo2361@c220g2-011325vm-1.wisc.cloudlab.us
+ssh -p 27011 eo2361@c220g2-011325.wisc.cloudlab.us
+ssh -p 27012 eo2361@c220g2-011325.wisc.cloudlab.us
+|cp -P 31412 eo2361@hp032.utah.cloudlab.us:/users/eo2361/romeo-net61-rip-failure.pcap C:/Users/T/Desktop/NYU
+|cp -P 31412 eo2361@hp032.utah.cloudlab.us:/users/eo2361/romeo-net61-rip-failure.pcap C:/Users/T/Desktop/NYU
+|cp -P 31412 eo2361@hp032.utah.cloudlab.us:/users/eo2361/romeo-net61-rip-failure.pcap C:/Users/T/Desktop/NYU
+ls
+scp -P 27012 eo2361@c220g2-011325.wisc.cloudlab.us:/users/eo2361/http-gateway.pcap C:/Users/T/Desktop/NYU
+ssh eo2361@pcvm604-6.emulab.net
+|cp -P 31412 eo2361@hp032.utah.cloudlab.us:/users/eo2361/romeo-net61-rip-failure.pcap C:/Users/T/Desktop/NYU
+scp -P 27211 eo2361@ms1044.utah.cloudlab.us:/users/eo2361/ntp-romeo.pcap C:/Users/T/Desktop/NYU
+ssh -p 27210 eo2361@ms1044.utah.cloudlab.us
+ssh -p 27211 eo2361@ms1044.utah.cloudlab.us
+ssh -p 27210 eo2361@ms1044.utah.cloudlab.us
+ssh -p 27211 eo2361@ms1044.utah.cloudlab.us
+ssh -p 29810 eo2361@ms0934.utah.cloudlab.us
+ssh -p 29810 eo2361@ms0934.utah.cloudlab.us
+ssh -p 29812 eo2361@ms0934.utah.cloudlab.us
+|sh -p 29811 eo2361@ms0934.utah.cloudlab.us
+|cp -P 31412 eo2361@hp032.utah.cloudlab.us:/users/eo2361/romeo-net61-rip-failure.pcap C:/Users/T/Desktop/NYU
+scp -P 29810 eo2361@ms0934.utah.cloudlab.us:/users/eo2361/security-ssh-romeo.pcap C:/Users/T/Desktop/NYU
+scp -P 29810 eo2361@ms0934.utah.cloudlab.us:/users/eo2361/security-telnet-romeo.pcap C:/Users/T/Desktop/NYU
+|sh -p 29811 eo2361@ms0934.utah.cloudlab.us
+scp -P 29810 eo2361@ms0934.utah.cloudlab.us:/users/eo2361/ecurity-ftp-romeo.pcap C:/Users/T/Desktop/NYU
+scp -P 29810 eo2361@ms0934.utah.cloudlab.us:/users/eo2361/security-ftp-romeo.pcap C:/Users/T/Desktop/NYU
+scp -P 29810 eo2361@ms0934.utah.cloudlab.us:/users/eo2361/security-sftp-romeo.pcap C:/Users/T/Desktop/NYU
+|sh -p 29811 eo2361@ms0934.utah.cloudlab.us
+scp -P 29810 eo2361@ms0934.utah.cloudlab.us:/users/eo2361/security-http-romeo.pcap C:/Users/T/Desktop/NYU
+scp -P 29810 eo2361@ms0934.utah.cloudlab.us:/users/eo2361/security-https-romeo.pcap C:/Users/T/Desktop/NYU
+ssh -p 29811 eo2361@ms0934.utah.cloudlab.us
+ssh -p 29810 eo2361@ms0934.utah.cloudlab.us
+ssh -p 29812 eo2361@ms0934.utah.cloudlab.us
+ssh -p 29811 eo2361@ms0934.utah.cloudlab.us
+scp -P 29810 eo2361@ms0934.utah.cloudlab.us:/users/eo2361/iptables-drop-romeo.pcap C:/Users/T/Desktop/NYU
+scp -P 29810 eo2361@ms0934.utah.cloudlab.us:/users/eo2361/iptables-reset-romeo.pcap C:/Users/T/Desktop/NYU
+ssh -p 29810 eo2361@ms0934.utah.cloudlab.us
+|sh -p 25810 eo2361@amd204.utah.cloudlab.us
+ssh -p 25811 eo2361@amd204.utah.cloudlab.us
+scp -P 31412 eo2361@hp032.utah.cloudlab.us:/users/eo2361/romeo-net61-rip-failure.pcap C:/Users/T/Desktop/NYU
+scp -P ssh -p 25813 eo2361@amd204.utah.cloudlab.us:/users/eo2361/vpn-ftp-router-ext.pcap C:/Users/T/Desktop/NYU
+scp -P 25813 eo2361@amd204.utah.cloudlab.us:/users/eo2361/vpn-ftp-router-ext.pcap C:/Users/T/Desktop/NYU
+scp -P 25812 eo2361@amd204.utah.cloudlab.us:/users/eo2361/vpn-ftp-router-ext.pcap C:/Users/T/Desktop/NYU
+scp -P 25812 eo2361@amd204.utah.cloudlab.us:/users/eo2361/vpn-sftp-router-ext.pcap C:/Users/T/Desktop/NYU
+scp -P 25813 eo2361@amd204.utah.cloudlab.us:/users/eo2361/vpn-sftp-router-int.pcap C:/Users/T/Desktop/NYU
+ssh -p 25814 eo2361@amd204.utah.cloudlab.us
+ssh -p 25812 eo2361@amd204.utah.cloudlab.us
+ssh -p 25810 eo2361@amd204.utah.cloudlab.us
+ssh -p 25813 eo2361@amd204.utah.cloudlab.us
+|sh -p 25815 eo2361@amd204.utah.cloudlab.us
+ssh -p 25815 eo2361@amd204.utah.cloudlab.us

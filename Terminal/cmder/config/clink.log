@@ -1,0 +1,48 @@
+3ccc app_context::start_logger  476 ---- 2024/12/13 20:40:56.937 -------------------------------------------------
+3ccc app_context::start_logger  479 Host process is 'cmd.exe' (pid 15564)
+3ccc app_context::start_logger  483 DLL path is 'C:\Users\T\Desktop\NYU\Second Semester\2.0) Internet Architecture and Protocols Lab\Terminal\cmder\vendor\clink'
+3ccc app_context::start_logger  498 Windows version 10.0.22631 (x64)
+3ccc app_context::start_logger  500 Clink version 1.6.14.93b83f (x64)
+3ccc hook_setter::hook_setter  159 >>> Started hook transaction.
+3ccc hook_setter::attach_iat   316 Attempting to hook SetEnvironmentVariableW in IAT for module 00007FF7370B0000.
+3ccc pe_info::iterate_imports  195 Found import in 'api-ms-win-core-processenvironment-l1-1-0.dll'
+3ccc find_iat                  124 Found import at 00007FF7370E6E98 (value is 00007FFE13898DC0).
+3ccc hook_setter::attach_iat   316 Attempting to hook SetEnvironmentStringsW in IAT for module 00007FF7370B0000.
+3ccc pe_info::iterate_imports  195 Found import in 'api-ms-win-core-processenvironment-l1-1-0.dll'
+3ccc find_iat                  124 Found import at 00007FF7370E6EA8 (value is 00007FFE13989E00).
+3ccc hook_setter::attach_iat   316 Attempting to hook WriteConsoleW in IAT for module 00007FF7370B0000.
+3ccc pe_info::iterate_imports  195 Found import in 'api-ms-win-core-console-l1-1-0.dll'
+3ccc find_iat                  124 Found import at 00007FF7370E6AF0 (value is 00007FFE13862D40).
+3ccc hook_setter::attach_iat   316 Attempting to hook GetEnvironmentVariableW in IAT for module 00007FF7370B0000.
+3ccc pe_info::iterate_imports  195 Found import in 'api-ms-win-core-processenvironment-l1-1-0.dll'
+3ccc find_iat                  124 Found import at 00007FF7370E6E68 (value is 00007FFE1384B6B0).
+3ccc hook_setter::commit       207 <<< Hook transaction committed.
+3ccc hook_setter::hook_setter  159 >>> Started hook transaction.
+3ccc hook_setter::detach_iat   359 Attempting to unhook 00007FFD851C5200 from GetEnvironmentVariableW in IAT for module 00007FF7370B0000.
+3ccc pe_info::iterate_imports  195 Found import in 'api-ms-win-core-processenvironment-l1-1-0.dll'
+3ccc find_iat                  124 Found import at 00007FF7370E6E68 (value is 00007FFD851C5200).
+3ccc hook_setter::commit       207 <<< Hook transaction committed.
+3ccc hook_setter::hook_setter  159 >>> Started hook transaction.
+3ccc hook_setter::attach_iat   316 Attempting to hook ReadConsoleW in IAT for module 00007FF7370B0000.
+3ccc pe_info::iterate_imports  195 Found import in 'api-ms-win-core-console-l1-1-0.dll'
+3ccc find_iat                  124 Found import at 00007FF7370E6AE8 (value is 00007FFE138CE220).
+3ccc hook_setter::commit       207 <<< Hook transaction committed.
+3ccc hook_setter::hook_setter  159 >>> Started hook transaction.
+3ccc hook_setter::attach_iat   316 Attempting to hook SetConsoleTitleW in IAT for module 00007FF7370B0000.
+3ccc pe_info::iterate_imports  195 Found import in 'api-ms-win-core-console-l2-2-0.dll'
+3ccc find_iat                  124 Found import at 00007FF7370E6B48 (value is 00007FFE138CECB0).
+3ccc hook_setter::commit       207 <<< Hook transaction committed.
+3ccc win_screen_buffer::begin  366 Using native terminal support (auto mode found 'ConEmuHk64.dll').
+3ccc reset_handle              144 resetting mismatched stdin handle
+3ccc reset_handle              144 resetting mismatched stdout handle
+3ccc reset_handle              144 resetting mismatched stderr handle
+3ccc reset_handle              144 resetting mismatched stdout handle
+3ccc reset_handle              144 resetting mismatched stderr handle
+3ccc host_lua::load_scripts    192 Loaded 2 Lua scripts in 603 ms
+3ccc history_db::initialise   1321 master bank ctag: |CTAG_1725481485_1577934906_20656_0
+3ccc history_db::compact      1599 History:  368 active, 653 deleted
+3ccc @~clink~/app/update.lua   425 Clink updater: latest release is v1.7.5; install type is zip.
+3ccc @~clink~/app/update.lua   577 Clink updater: update in C:\Users\T\AppData\Local\Temp\clink\updater\v1.7.5.zip is ready to be applied.
+3ccc reset_handle              144 resetting mismatched stdout handle
+3ccc reset_handle              144 resetting mismatched stderr handle
+3ccc history_db::compact      1599 History:  368 active, 653 deleted
